@@ -1,7 +1,17 @@
+html,body{
+    margin:0;
+    padding:0;
+
+}
 .titulo1{
     font-family: "Handjet", sans-serif;
-    font-size: 80px;
+    font-size: 60px;
+    position:fixed;
+    right: 0;
     text-align: center;
+    text-shadow: 0 0 0.2em gold;
+    top:100px
+
 }
 .hoja{
     width: 100%;
